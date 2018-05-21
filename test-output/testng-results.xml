@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75485" started-at="2018-05-21T18:28:15Z" finished-at="2018-05-21T18:29:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75485" started-at="2018-05-21T18:28:15Z" finished-at="2018-05-21T18:29:31Z">
+      <class name="TestNGRoom5.Task2Tests">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="9668" started-at="2018-05-21T18:28:15Z" finished-at="2018-05-21T18:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="searchLocation()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="searchLocation" duration-ms="4581" started-at="2018-05-21T18:28:25Z" description="This test case will Search for any location on Room5 by using the search bar" finished-at="2018-05-21T18:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocation -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1445" started-at="2018-05-21T18:28:29Z" finished-at="2018-05-21T18:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="15055" started-at="2018-05-21T18:28:31Z" finished-at="2018-05-21T18:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="fillContactForm()[pri:1, instance:TestNGRoom5.Task2Tests@60285225]" name="fillContactForm" duration-ms="1587" started-at="2018-05-21T18:28:46Z" description="This test case will Fill in the contact form and send it (accessible through the footer)" finished-at="2018-05-21T18:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillContactForm -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1254" started-at="2018-05-21T18:28:48Z" finished-at="2018-05-21T18:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="8149" started-at="2018-05-21T18:28:49Z" finished-at="2018-05-21T18:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="subscribeToNewsletter()[pri:2, instance:TestNGRoom5.Task2Tests@60285225]" name="subscribeToNewsletter" duration-ms="678" started-at="2018-05-21T18:28:57Z" description="This test case will Subscribe to the Newsletter" finished-at="2018-05-21T18:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscribeToNewsletter -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1135" started-at="2018-05-21T18:28:58Z" finished-at="2018-05-21T18:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="7611" started-at="2018-05-21T18:28:59Z" finished-at="2018-05-21T18:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="navigateToDestination()[pri:3, instance:TestNGRoom5.Task2Tests@60285225]" name="navigateToDestination" duration-ms="691" started-at="2018-05-21T18:29:06Z" description="This test case will Navigate to a destination through the menu on the top left" finished-at="2018-05-21T18:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDestination -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1040" started-at="2018-05-21T18:29:07Z" finished-at="2018-05-21T18:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="7644" started-at="2018-05-21T18:29:08Z" finished-at="2018-05-21T18:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="selectCountry()[pri:4, instance:TestNGRoom5.Task2Tests@60285225]" name="selectCountry" duration-ms="3040" started-at="2018-05-21T18:29:16Z" description="This test case will Select a country from the drop down menu options" finished-at="2018-05-21T18:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCountry -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1097" started-at="2018-05-21T18:29:19Z" finished-at="2018-05-21T18:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="startDriver" is-config="true" duration-ms="8228" started-at="2018-05-21T18:29:20Z" finished-at="2018-05-21T18:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="allInspirations()[pri:5, instance:TestNGRoom5.Task2Tests@60285225]" name="allInspirations" duration-ms="1195" started-at="2018-05-21T18:29:28Z" description="This test case will navigate the user to All Inspirations page" finished-at="2018-05-21T18:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allInspirations -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:TestNGRoom5.Task2Tests@60285225]" name="stopDriver" is-config="true" duration-ms="1348" started-at="2018-05-21T18:29:29Z" finished-at="2018-05-21T18:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- TestNGRoom5.Task2Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
